@@ -1,0 +1,2 @@
+D:\オセロ\x64\Debug\オセロ.exe
+D:\オセロ\x64\Debug\オセロ.pdb

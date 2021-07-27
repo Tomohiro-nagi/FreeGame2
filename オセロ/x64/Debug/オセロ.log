@@ -1,0 +1,5 @@
+﻿  Application.cpp
+D:\オセロ\Application.cpp(14,12): warning C4305: 'return': 'int' から 'bool' へ切り詰めます。
+  main.cpp
+  コードを生成中...
+  オセロ.vcxproj -> D:\オセロ\x64\Debug\オセロ.exe
